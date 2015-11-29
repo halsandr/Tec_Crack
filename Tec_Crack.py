@@ -18,6 +18,7 @@ file = ""
 def usage(): # any incorrect input will display the usage instructions
 	screen_clear()
 	print """Tec_Crack.py
+Version 0.9
 
 =======
 Usage
