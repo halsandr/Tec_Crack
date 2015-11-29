@@ -11,7 +11,7 @@ Usage
 Options
 =======
 
-	-u,  --user=<USER>	Username
+	-u,  --user=<USER>		Username
 	-n,  --nonce=<NONCE>	Random nonce, unique to each login attempt
-	-h,  --hash=<HASH>	MD5 Hash to be cracked
+	-h,  --hash=<HASH>		MD5 Hash to be cracked
 	-w,  --wordlist=<FILE>	Address of Wordlist file
